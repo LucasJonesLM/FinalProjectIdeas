@@ -1,0 +1,12 @@
+Project Idea:
+Our new app will be able to supply auto repair quotes for any repair on any automobile.  The user will supply their zip code, vehicle make, model, year, and the required repair
+(e.g. rear bumper replacement, new engine, replace brakes etc.).  The API will return the average cost of the repair and a list of local vendors (auto repair shops).  If the 
+repair is not available in the database then the user can add a quote from a local vendor.
+
+What is the value added?
+Supplies more visibility into the cost of automobile repairs.
+What is required to do this?
+
+Data tables:
+Vendors by zip code
+Repair cost by vehicle, make, model, year, repair type, zip code
